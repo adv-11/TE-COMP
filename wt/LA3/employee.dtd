@@ -1,0 +1,12 @@
+<!ELEMENT employees (employee+)>
+<!ELEMENT employee (empName, DOB, contactno, address, gender, designation, Dateofjoin, salary, department)>
+<!ELEMENT empName (fname, lname)>
+<!ELEMENT fname (#PCDATA)>
+<!ELEMENT lname (#PCDATA)>
+<!ELEMENT contactno (#PCDATA)>
+<!ELEMENT address (#PCDATA)>
+<!ELEMENT gender (#PCDATA)>
+<!ELEMENT designation (#PCDATA)>
+<!ELEMENT salary (#PCDATA)>
+
+
