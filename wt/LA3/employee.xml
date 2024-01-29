@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE employees SYSTEM "employees.dtd">
+<employees>
+    <employee>
+        <empName>
+            <fname>John</fname>
+            <lname>Doe</lname>
+        </empName>
+        <contactno>1234567890</contactno>
+        <address>Mumbai</address>
+        <gender>Male</gender>
+        <designation>Software Engineer</designation>
+        
+        <salary>80000</salary>
+        
+    </employee>
+ <employee>
+        <empName>
+            <fname>Jane</fname>
+            <lname>Doe</lname>
+        </empName>
+        <contactno>1234567890</contactno>
+        <address>Pune</address>
+        <gender>Female</gender>
+        <designation>Software Tester</designation>
+        
+        <salary>60000</salary>
+        
+    </employee>
+
+
+</employees>
